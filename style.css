@@ -1,0 +1,60 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#nav-bar{
+    background-color: rgb(27, 27, 27);
+}
+
+#nav-bar img{
+    width: 4rem;
+    height: 4rem;
+}
+
+/* Header Section */
+.header {
+    background-image: url(https://img.freepik.com/free-photo/traveling-with-off-road-car_23-2151473045.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.header-content {
+    max-width: 600px;
+}
+
+.header h1 {
+    font-size: 3rem;
+}
+
+.header p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+/* About Section */
+#about {
+    background-color: #f7f7f7;
+}
+
+#about h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+/* Services Section */
+#services .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#services .card-title {
+    font-size: 1.25rem;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(27, 27, 27);
+    color: #ccc;
+}
